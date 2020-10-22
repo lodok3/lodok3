@@ -1,5 +1,5 @@
 ## Languages I use
-![alt text][logo]
+[Lua][lua-logo]
 
 [My channel] (https://www.youtube.com/channel/UCneXWx6KJXTes5vObpys8dA, "My channel")
 
