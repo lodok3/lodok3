@@ -1,6 +1,6 @@
 ## Languages I use
 ![Lua][lua-logo]
 
-![<img src = "https://th.bing.com/th/id/OIP.l-lzNwy10m_FDA5Pv-pABAHaHa?w=164&h=180&c=7&o=5&dpr=1.38&pid=1.7"></img>] (https://www.youtube.com/channel/UCneXWx6KJXTes5vObpys8dA, "My channel")
+[<img src = "https://th.bing.com/th/id/OIP.l-lzNwy10m_FDA5Pv-pABAHaHa?w=164&h=180&c=7&o=5&dpr=1.38&pid=1.7"></img>] (https://www.youtube.com/channel/UCneXWx6KJXTes5vObpys8dA, "My channel")
 
 [lua-logo]: https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/lua/lua.png "Lua"
